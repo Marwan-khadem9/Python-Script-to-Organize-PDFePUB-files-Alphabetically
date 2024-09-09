@@ -42,6 +42,15 @@ A Python script to organize and move PDF and EPUB files from a source folder to 
    
 The script will move all PDF and EPUB files from the source folder to the destination folder, sorting them alphabetically.
 
+## before running the script
+![before org](https://github.com/user-attachments/assets/a18fadea-6980-408f-9e15-5d2f3c68c9df)
+
+## after running the script (empty folder)
+![empty folder](https://github.com/user-attachments/assets/dbe85285-40b0-4be3-8aef-908bb3f82abc)
+
+## after running the script (alphabetically organized folder)
+![organized books](https://github.com/user-attachments/assets/b3ec92e8-8da6-4150-878e-ddde90435c28)
+
 ## Contributing
 
 If you'd like to contribute to this project, please follow these steps:
